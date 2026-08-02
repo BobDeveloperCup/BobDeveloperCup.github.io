@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "titulo": "BobHub (UI)",
+        "status": "ativo",
+        "linguagens": ["Python","Compatibilidade I Pc"],
+        "descricao": "BobDeveloperHub é uma plataforma centralizada que reúne jogos de PC (Offline e Online) focados em alta performance, jogabilidade fluida e arquitetura otimizada. Desenvolvido para oferecer entretenimento leve e seguro direto na sua máquina, sem processos pesados em segundo plano.",
+        "imagem": "BobHub.png",
+        "linkDownload": "https://www.mediafire.com/file/pkc0n9ur0wqkxug/BobHub_1.2.exe/file",
+        "temDownload": true
+    },
+    {
+        "id": 2,
+        "titulo": "BobMacro",
+        "status": "ativo",
+        "linguagens": ["Python","Compatibilidade I Pc"],
+        "descricao": "BobMacro é um utilitário de automação e remapeamento de alta performance para PC. Desenvolvido para otimizar o tempo de resposta em comandos complexos, ele permite a alternância instantânea entre teclas e a execução de macros precisas, garantindo máxima eficiência e vantagem competitiva em tempo real.",
+        "imagem": "BobMacro.png",
+        "linkDownload": "https://www.mediafire.com/file/er4llloxmvj5zgt/BobMacro.exe/file",
+        "temDownload": true
+    },
+    {
+        "id": 3,
+        "titulo": "BobClicker",
+        "status": "ativo",
+        "linguagens": ["Python","Compatibilidade I Pc"],
+        "descricao": "BobClicker é um utilitário de automação de cliques de alta frequência projetado para desempenho extremo. Desenvolvido com foco em latência ultra-baixa, ele entrega taxas de cliques massivas com consumo de hardware quase nulo, garantindo estabilidade total do sistema mesmo sob carga máxima.",
+        "imagem": "BobClicker.png",
+        "linkDownload": "https://www.mediafire.com/file/3r99qu64kna32qt/BobClicker.exe/file",
+        "temDownload": true
+    },
+    {
+        "id": 4,
+        "titulo": "Brothers In Arms",
+        "status": "descontinuado",
+        "linguagens": ["Turbowarp","Compatibilidade I Pc","Navegador"],
+        "descricao": "Script antigo que foi descontinuado, mas o código fonte ainda permanece disponível para download.",
+        "imagem": "CupheadBrothersInArms.png",
+        "linkDownload": "https://bob-developer.itch.io/brothers-in-arms-bob",
+        "temDownload": true
+    },
+    {
+        "id": 5,
+        "titulo": "BobUnlocker",
+        "status": "ativo",
+        "linguagens": ["JavaScript","Navegador"],
+        "descricao": "O BobUnlocker é um script injetável em JavaScript (Bookmarklet) projetado para contornar restrições de páginas web. Ele desativa bloqueios de clique direito, cópia, colagem e seleção de texto em sites que tentam impedir essas ações nativas do navegador.",
+        "imagem": "BobBanner.png",
+        "linkDownload": "https://pastebin.com/MibPGvs4",
+        "temDownload": true
+    },
+    {
+        "id": 6,
+        "titulo": "ResenhaExtensão",
+        "status": "ativo",
+        "linguagens": ["JavaScript","Navegador"],
+        "descricao": "A ResenhaExtensão é uma extensão do navegador que coloca olhos por cima de todas as imagens presentes no navegador.",
+        "imagem": "ResenhaExtensão.png",
+        "linkDownload": "https://www.mediafire.com/file/2njqxjo6kdfzqoi/ResenhaExtensão.rar/file",
+        "temDownload": true
+    }
+]
