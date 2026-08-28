@@ -3,8 +3,8 @@
         "id": 1,
         "titulo": "BobHub (UI)",
         "status": "ativo",
-        "linguagens": ["Python","Compatibilidade I Pc"],
-        "descricao": "BobDeveloperHub é uma plataforma centralizada que reúne jogos de PC (Offline e Online) focados em alta performance, jogabilidade fluida e arquitetura otimizada. Desenvolvido para oferecer entretenimento leve e seguro direto na sua máquina, sem processos pesados em segundo plano.",
+        "linguagens": ["Python", "PC"],
+        "descricao": "Central de jogos leve e otimizada para PC, reunindo títulos offline e online com alto desempenho e sem processos pesados em segundo plano.",
         "imagem": "BobHub.png",
         "linkDownload": "https://www.mediafire.com/file/pkc0n9ur0wqkxug/BobHub_1.2.exe/file",
         "temDownload": true
@@ -13,8 +13,8 @@
         "id": 2,
         "titulo": "BobMacro",
         "status": "ativo",
-        "linguagens": ["Python","Compatibilidade I Pc"],
-        "descricao": "BobMacro é um utilitário de automação e remapeamento de alta performance para PC. Desenvolvido para otimizar o tempo de resposta em comandos complexos, ele permite a alternância instantânea entre teclas e a execução de macros precisas, garantindo máxima eficiência e vantagem competitiva em tempo real.",
+        "linguagens": ["Python", "PC"],
+        "descricao": "Utilitário de automação e remapeamento para PC focado em agilidade, permitindo alternância rápida de teclas e macros precisas em tempo real.",
         "imagem": "BobMacro.png",
         "linkDownload": "https://www.mediafire.com/file/er4llloxmvj5zgt/BobMacro.exe/file",
         "temDownload": true
@@ -23,40 +23,40 @@
         "id": 3,
         "titulo": "BobClicker",
         "status": "ativo",
-        "linguagens": ["Python","Compatibilidade I Pc"],
-        "descricao": "BobClicker é um utilitário de automação de cliques de alta frequência projetado para desempenho extremo. Desenvolvido com foco em latência ultra-baixa, ele entrega taxas de cliques massivas com consumo de hardware quase nulo, garantindo estabilidade total do sistema mesmo sob carga máxima.",
+        "linguagens": ["Python", "PC"],
+        "descricao": "Ferramenta de automação de cliques de alta frequência com latência ultra-baixa e consumo mínimo de hardware para máxima eficiência.",
         "imagem": "BobClicker.png",
         "linkDownload": "https://www.mediafire.com/file/3r99qu64kna32qt/BobClicker.exe/file",
-        "temDownload": true
-    },
-    {
-        "id": 4,
-        "titulo": "Brothers In Arms",
-        "status": "descontinuado",
-        "linguagens": ["Turbowarp","Compatibilidade I Pc","Navegador"],
-        "descricao": "Script antigo que foi descontinuado, mas o código fonte ainda permanece disponível para download.",
-        "imagem": "CupheadBrothersInArms.png",
-        "linkDownload": "https://bob-developer.itch.io/brothers-in-arms-bob",
         "temDownload": true
     },
     {
         "id": 5,
         "titulo": "BobUnlocker",
         "status": "ativo",
-        "linguagens": ["JavaScript","Navegador"],
-        "descricao": "O BobUnlocker é um script injetável em JavaScript (Bookmarklet) projetado para contornar restrições de páginas web. Ele desativa bloqueios de clique direito, cópia, colagem e seleção de texto em sites que tentam impedir essas ações nativas do navegador.",
+        "linguagens": ["JavaScript", "Web"],
+        "descricao": "Bookmarklet em JavaScript para contornar restrições web, reativando o clique direito, seleção de texto, cópia e colagem em páginas bloqueadas.",
         "imagem": "BobBanner.png",
         "linkDownload": "https://pastebin.com/MibPGvs4",
         "temDownload": true
     },
     {
+        "id": 4,
+        "titulo": "Brothers In Arms",
+        "status": "descontinuado",
+        "linguagens": ["TurboWarp", "PC", "Web"],
+        "descricao": "Fangame de Cuphead descontinuada, inspirada na música 'Brothers in Arms' da DAGAMES.",
+        "imagem": "CupheadBrothersInArms.png",
+        "linkDownload": "https://bob-developer.itch.io/brothers-in-arms-bob",
+        "temDownload": true
+    },
+    {
         "id": 6,
-        "titulo": "ResenhaExtensão",
-        "status": "ativo",
-        "linguagens": ["JavaScript","Navegador"],
-        "descricao": "A ResenhaExtensão é uma extensão do navegador que coloca olhos por cima de todas as imagens presentes no navegador.",
-        "imagem": "ResenhaExtensão.png",
-        "linkDownload": "https://www.mediafire.com/file/2njqxjo6kdfzqoi/ResenhaExtensão.rar/file",
+        "titulo": "BobExploit CS2",
+        "status": "descontinuado",
+        "linguagens": ["Python", "PC"],
+        "descricao": "Software de trapaça descontinuado para Counter-Strike 2 com aimbot e ESP. Instável, mal otimizado e mantido apenas como registro histórico.",
+        "imagem": "CS2Xit.png",
+        "linkDownload": "https://pastebin.com/MibPGvs4",
         "temDownload": true
     }
 ]
