@@ -1,0 +1,80 @@
+[
+  {
+    "id": "spectra.wtf",
+    "titulo": "Spectra.wtf",
+    "subtitulo": "Scripts para Roblox",
+    "status": "Em desenvolvimento",
+    "descricao": "Ferramenta desenvolvida para Roblox, reunindo scripts, funcionalidades e opções de personalização em uma única plataforma, com suporte para PC e dispositivos móveis.",
+    "tecnologias": ["Luau", "PC", "Mobile"],
+    "banner": "assets/img/spectra.wtf/banner.webp",
+    "logo": "assets/img/spectra.wtf/logo.png",
+    "logoAlt": "Spectra.wtf",
+    "links": [
+      {
+        "rotulo": "Obter",
+        "url": "https://discord.gg/6e3E8SGKa4"
+      }
+    ],
+    "tema": {
+      "fundo": "#080808",
+      "texto": "#FFFFFF",
+      "suave": "#B8B8B8",
+      "destaque": "#45454D",
+      "secundaria": "#858585",
+      "fonteTitulo": "Orbitron",
+      "detalhe": "cromatico"
+    }
+  },
+  {
+    "id": "vortex",
+    "titulo": "Vortex",
+    "subtitulo": "Automação para Sala do Futuro",
+    "status": "Ativo",
+    "descricao": "Ferramenta de automação desenvolvida em Python para a plataforma Sala do Futuro. Oferece recursos como login automático, preenchimento de páginas e facilidades para copiar e colar conteúdo.",
+    "tecnologias": ["Python", "PC"],
+    "banner": "assets/img/vortex/banner.webp",
+    "logo": "assets/img/vortex/logo.png",
+    "logoAlt": "Vortex",
+    "links": [
+      {
+        "rotulo": "Baixar",
+        "url": "https://bobdevelopercup.github.io/Vortex/"
+      }
+    ],
+    "tema": {
+      "fundo": "#0A0A0A",
+      "texto": "#E0E0E0",
+      "suave": "#888888",
+      "destaque": "#45454D",
+      "secundaria": "#292930",
+      "fonteTitulo": "Orbitron",
+      "detalhe": "cromatico"
+    }
+  },
+  {
+    "id": "brothers-in-arms",
+    "titulo": "Brothers In Arms",
+    "subtitulo": "Fangame de Cuphead",
+    "status": "Descontinuado",
+    "descricao": "Fangame inspirada no universo de Cuphead e na música \"Brothers in Arms\", da DAGAMES. Desenvolvida no TurboWarp, com proposta própria e identidade visual inspirada no estilo clássico do jogo.",
+    "tecnologias": ["TurboWarp", "PC", "Web"],
+    "banner": "assets/img/brothers-in-arms/banner.webp",
+    "logo": "assets/img/brothers-in-arms/logo.png",
+    "logoAlt": "Cuphead Brothers In Arms",
+    "links": [
+      {
+        "rotulo": "Abrir no itch.io",
+        "url": "https://bob-developer.itch.io/brothers-in-arms-bob"
+      }
+    ],
+    "tema": {
+      "fundo": "#1B1626",
+      "texto": "#F3EEF8",
+      "suave": "#A99FBF",
+      "destaque": "#D43A34",
+      "secundaria": "#7A73CB",
+      "fonteTitulo": "Fredoka",
+      "detalhe": "xadrez"
+    }
+  }
+]
